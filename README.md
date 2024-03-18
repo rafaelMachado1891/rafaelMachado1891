@@ -1,9 +1,27 @@
 
-👋 Hi, I’m @rafaelMachado1891
-👀 I’m interested in ...
-🌱 I’m currently learning ...
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
+## Olá pessoal 
+
+
+## Eu sou o Rafael Machado! 👋
+
+Sou formado em Ciências Contábeis pela Universidade de Caxias do Sul/ UCS, trabalho na área da indústria e nos últimos anos dedico maior parte do meu tempo ao estudo da área de dados! 
+
+A minha trajetória de estudos atual é: 
+
+- 📊 Cursos de Analise de dados com foco na ferramenta Power Bi!
+- 📜 Curso SQL Server
+- 📚 Curso introdutório de Git e Git Hub
+- 📚 Curso SQL Server Integration Services (SSIS) - ETL Avançado
+- 🔭 Desenvolvendo um Projeto!
+
+
+## 🖥 <b>Meu Linkedin.</b>  
+
+<div align='Left'>
+  <a href='https://www.linkedin.com/in/seu-perfil-do-linkedin-aqui' target='_blank'>
+    <img alt='LinkedIn' height='30' width='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg'/>
+  </a>
+</div>
 
 ### My Website
 You can visit my personal website at [rafaelMachao1891.github.io](https://rafaelMachado.github.io). Feel free to check it out!
