@@ -23,8 +23,3 @@ A minha trajetória de estudos atual é:
   </a>
 </div>
 
-### My Website
-You can visit my personal website at [rafaelMachao1891.github.io](https://rafaelMachado.github.io). Feel free to check it out!
-
-😄 Pronouns: ...
-⚡ Fun fact: ...
