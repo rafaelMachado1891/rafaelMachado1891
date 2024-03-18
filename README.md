@@ -18,7 +18,7 @@ A minha trajetória de estudos atual é:
 ## 🖥 <b>Meu Linkedin.</b>  
 
 <div align='Left'>
-  <a href='https://www.linkedin.com/in/seu-perfil-do-linkedin-aqui' target='_blank'>
+  <a href='https://www.linkedin.com/in/rafael-machado-dmn1' target='_blank'>
     <img alt='LinkedIn' height='30' width='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg'/>
   </a>
 </div>
