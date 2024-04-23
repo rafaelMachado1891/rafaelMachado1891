@@ -4,7 +4,7 @@
 
 ## Eu sou o Rafael Machado! 👋
 
-Sou formado em Ciências Contábeis pela Universidade de Caxias do Sul/ UCS, trabalho na área da indústria e nos últimos anos dedico maior parte do meu tempo ao estudo da área de dados! 
+Sou formado em Ciências Contábeis pela Universidade de Caxias do Sul/ UCS, trabalho como analista de dados no ramo da indústria e nos últimos anos dedico maior parte do meu tempo ao estudo da área de dados! 
 
 A minha trajetória de estudos atual é: 
 
