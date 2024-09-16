@@ -8,6 +8,7 @@ Sou formado em Ciências Contábeis pela Universidade de Caxias do Sul/ UCS, tra
 
 A minha trajetória de estudos atual é: 
 
+- 📜 Python para área de dados
 - 📊 Cursos de Analise de dados com foco na ferramenta Power Bi!
 - 📜 Curso SQL Server
 - 📚 Curso introdutório de Git e Git Hub
